@@ -43,6 +43,12 @@
         <artifactId>webdrivermanager</artifactId>
         <version>5.9.3</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.google.inject/guice -->
+    <dependency>
+        <groupId>com.google.inject</groupId>
+        <artifactId>guice</artifactId>
+        <version>7.0.0</version>
+    </dependency>
   </dependencies>
 
   <build>
